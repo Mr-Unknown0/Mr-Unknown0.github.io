@@ -2,7 +2,7 @@
 title: "A Literature Review of the Research on the Uncanny Valley"
 collection: publications
 permalink: /publication/A Literature Review of the Research on the Uncanny Valley
-excerpt: 'This paper is a review about the Uncanny Valley effect.'
+excerpt: 'enabled'
 date: 2020-7-10
 venue: 'the 22nd HCI International Conference, HCII 2020'
 paperurl: 'http://Mr-Unknown0.github.io/files/A Literature Review of the Research on the Uncanny Valley.pdf'
