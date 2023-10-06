@@ -17,12 +17,12 @@ Education
 Work experience
 ======
 * Coding
-  ** MATLAB
+  * MATLAB
 * Statistics
-  ** R
-  ** SPSS
+  * R
+  * SPSS
 * Technology
-  ** EEG
+  * EEG
   
   
 Skills
