@@ -16,7 +16,14 @@ Education
 
 Work experience
 ======
-
+* Coding
+** MATLAB
+* Statistics
+** R
+** SPSS
+* Technology
+** EEG
+  
   
 Skills
 ======
