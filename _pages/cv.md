@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+
+  
+Skills
+======
 * Coding
   * MATLAB
 * Statistics
@@ -23,11 +27,7 @@ Work experience
   * SPSS
 * Technology
   * EEG
-  
-  
-Skills
-======
-
+  * Psychophysics
 
 Publications
 ======
