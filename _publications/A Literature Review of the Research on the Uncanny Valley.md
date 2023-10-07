@@ -13,4 +13,4 @@ Depend on the development of science and technology, the demands for robots are 
 
 [Download paper here](http://Mr-Unknown0.github.io/files/A Literature Review of the Research on the Uncanny Valley.pdf)
 
-Citation: Zhang, J., Li, S., Zhang, JY., Du, F., Qi, Y., Liu, X. (2020). A Literature Review of the Research on the Uncanny Valley. In: Rau, PL. (eds) Cross-Cultural Design. User Experience of Products, Services, and Intelligent Environments. HCII 2020. Lecture Notes in Computer Science, vol 12192. Springer, Cham. https://doi.org/10.1007/978-3-030-49788-0_19
+Citation: Zhang, J., Li, S., Zhang, JY., Du, F., Qi, Y., & Liu, X. (2020). A Literature Review of the Research on the Uncanny Valley. In: Rau, PL. (eds) Cross-Cultural Design. User Experience of Products, Services, and Intelligent Environments. HCII 2020. Lecture Notes in Computer Science, vol 12192. Springer, Cham. https://doi.org/10.1007/978-3-030-49788-0_19
