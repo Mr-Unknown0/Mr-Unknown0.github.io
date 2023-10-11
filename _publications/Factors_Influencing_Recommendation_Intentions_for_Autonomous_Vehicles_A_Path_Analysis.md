@@ -1,11 +1,11 @@
 ---
 title: "Factors Influencing Recommendation Intentions for Autonomous Vehicles: A Path Analysis"
 collection: publications
-permalink: /publication/Factors_Influencing_Recommendation_Intentions for Autonomous_Vehicles_A_Path_Analysis
+permalink: /publication/Factors_Influencing_Recommendation_Intentions_for_Autonomous_Vehicles_A_Path_Analysis
 excerpt: ''
 date: 2024-1-1
 venue: 'Acta Psychologica'
-paperurl: 'http://Mr-Unknown0.github.io/files/Factors_Influencing_Recommendation_Intentions for Autonomous_Vehicles_A_Path_Analysis.pdf'
+paperurl: 'http://Mr-Unknown0.github.io/files/Factors_Influencing_Recommendation_Intentions_for_Autonomous_Vehicles_A_Path_Analysis.pdf'
 citation: 'Ruan, S., Li, S, & Qi, Y*．(in press). Factors Influencing Recommendation Intentions for Autonomous Vehicles: A Path Analysis．Acta Psychologica'
 ---
 ## Abstract
