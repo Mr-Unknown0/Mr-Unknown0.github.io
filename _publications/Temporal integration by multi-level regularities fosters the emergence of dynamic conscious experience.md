@@ -13,4 +13,4 @@ The relationship between integration and awareness is central to contemporary th
 
 [Download paper here](http://Mr-Unknown0.github.io/files/Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience.pdf)
 
-Citation: Hu, R., Li, S., Yuan, P., Wang, Y, & Jiang, Y．(2024). Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience. *Annals of the New York Academy of Sciences*.
+Citation: Hu, R., Li, S., Yuan, P., Wang, Y., & Jiang, Y．(2024). Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience. *Annals of the New York Academy of Sciences*.
