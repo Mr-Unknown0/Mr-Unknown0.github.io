@@ -6,11 +6,11 @@ excerpt: ''
 date: 2024-1-9
 venue: 'Annals of the New York Academy of Sciences'
 paperurl: 'http://Mr-Unknown0.github.io/files/Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience.pdf'
-citation: 'Hu,R., Li,S., Yuan, P., Wang,Y, & Jiang, Y．(online). 社会信息加工对瞳孔大小的调节及其机制．生物化学与生物物理进展. https://doi.org/10.16476/j.pibb.2023.0214'
+citation: 'Hu, R.#, Li, S.#, Yuan, P., Wang, Y, & Jiang, Y．(2024). Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience. Annals of the New York Academy of Sciences.'
 ---
 ## Abstract
-瞳孔大小作为反映个体心理状态的窗口在社会互动中担任着重要的角色。除了非社会性信息（如刺激物理属性等因素)加工被发现影响瞳孔大小变化之外，越来越多的文献指出瞳孔大小与个体社会信息加工之间也存在密切关系。基于此，本文系统综述了社会性刺激（如面孔和生物运动）本身以及社会性刺激含有的情绪信息对于瞳孔大小的影响，总结出瞳孔大小变化不仅可以反映个体对社会信息感知，同样可以体现个体对更为复杂的社会互动情境的加工。这种社会性信息加工相关的瞳孔大小变化主要涉及个体的情绪唤醒和社会性注意过程。此外，对于自闭症谱系患者这一在社会互动中存在障碍的特殊群体，有关研究发现其对社会性刺激存在异常的瞳孔反应模式。这一特异性为进一步采用瞳孔指标对自闭症进行早期诊断提供了支持，具有重要的理论和实践意义。
+The relationship between integration and awareness is central to contemporary theories and research on consciousness. Here, we investigated whether and how information is integrated over time by incorporating the underlying regularities that contribute to our awareness of the dynamic world. Using binocular rivalry, we demonstrated that structured visual streams consisting of shape, motion, or idiom sequences containing perceptual- or semantic-level regularities, predominated over their non-structured but otherwise matched counterparts in the competition for visual awareness. Despite the apparent resemblance, a substantial dissociation of the observed rivalry advantages emerged between perceptual- and semantic-level regularities. These effects stem from nonconscious and conscious temporal integration processes, respectively, with the former but not the latter being vulnerable to perturbations in the spatiotemporal integration window. These findings corroborate the essential role of structure-guided information integration in visual awareness and highlight a multi-level mechanism where temporal integration by perceptually and semantically defined regularities fosters the emergence of continuous conscious experience.
 
-[Download paper here](http://Mr-Unknown0.github.io/files/社会信息加工对瞳孔大小的调节及其机制.pdf)
+[Download paper here](http://Mr-Unknown0.github.io/files/Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience.pdf)
 
-Citation: 葛乙平，李硕，王莉，蒋毅．(in press). 社会信息加工对瞳孔大小的调节及其机制．*生物化学与生物物理进展*. https://doi.org/10.16476/j.pibb.2023.0214
+Citation: Hu, R., Li, S., Yuan, P., Wang, Y, & Jiang, Y．(2024). Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience. *Annals of the New York Academy of Sciences*.
