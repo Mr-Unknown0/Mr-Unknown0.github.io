@@ -1,16 +1,16 @@
 ---
-title: "Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience"
+title: "Cortical tracking of hierarchical rhythms orchestrates the multisensory processing of biological motion"
 collection: publications
-permalink: /publication/Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience
+permalink: /publication/Cortical tracking of hierarchical rhythms orchestrates the multisensory processing of biological motion
 excerpt: ''
-date: 2024-1-9
-venue: 'Annals of the New York Academy of Sciences'
-paperurl: 'http://Mr-Unknown0.github.io/files/Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience.pdf'
-citation: 'Hu, R.#, Li, S.#, Yuan, P., Wang, Y.*, & Jiang, Y．(2024). Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience. Annals of the New York Academy of Sciences. 1–13. https://doi.org/10.1111/nyas.15099'
+date: 2025-2-5
+venue: 'ELife'
+paperurl: 'http://Mr-Unknown0.github.io/files/Cortical tracking of hierarchical rhythms orchestrates the multisensory processing.pdf'
+citation: 'Shen, L., Li, S., Tian, Y., Wang, Y.* , & Jiang, Y. (2025). Cortical tracking of hierarchical rhythms orchestrates the multisensory processing of biological motion. eLife, 13, RP98701. https://doi.org/10.7554/eLife.98701'
 ---
 ## Abstract
-The relationship between integration and awareness is central to contemporary theories and research on consciousness. Here, we investigated whether and how information integration over time, by incorporating the underlying regularities, contributes to our awareness of the dynamic world. Using binocular rivalry, we demonstrated that structured visual streams, constituted by shape, motion, or idiom sequences containing perceptual- or semantic-level regularities, predominated over their nonstructured but otherwise matched counterparts in the competition for visual awareness. Despite the apparent resemblance, a substantial dissociation of the observed rivalry advantages emerged between perceptual- and semantic-level regularities. These effects stem from nonconscious and conscious temporal integration processes, respectively, with the former but not the latter being vulnerable to perturbations in the spatiotemporal integration window. These findings corroborate the essential role of structure-guided information integration in visual awareness and highlight a multi-level mechanism where temporal integration by perceptually and semantically defined regularities fosters the emergence of continuous conscious experience.
+When observing others’ behaviors, we continuously integrate their movements with the corresponding sounds to enhance perception and develop adaptive responses. However, how the human brain integrates these complex audiovisual cues based on their natural temporal corre- spondence remains unclear. Using electroencephalogram (EEG), we demonstrated that rhythmic cortical activity tracked the hierarchical rhythmic structures in audiovisually congruent human walking movements and footstep sounds. Remarkably, the cortical tracking effects exhibit distinct multisensory integration modes at two temporal scales: an additive mode in a lower-order, narrower temporal integration window (step cycle) and a super-additive enhancement in a higher-order, broader temporal window (gait cycle). Furthermore, while neural responses at the lower-order timescale reflect a domain- general audiovisual integration process, cortical tracking at the higher- order timescale is exclusively engaged in the integration of biological motion cues. In addition, only this higher-order, domain-specific cortical tracking effect correlates with individuals’ autistic traits, highlighting its potential as a neural marker for autism spectrum disorder. These findings unveil the multifaceted mechanism whereby rhythmic cortical activity supports the multisensory integration of human motion, shedding light on how neural coding of hierarchical temporal structures orchestrates the processing of complex, natural stimuli across multiple timescales.
 
-[Download paper here](http://Mr-Unknown0.github.io/files/Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience.pdf)
+[Download paper here](http://Mr-Unknown0.github.io/files/Cortical tracking of hierarchical rhythms orchestrates the multisensory processing.pdf)
 
-Citation: Hu, R., Li, S., Yuan, P., Wang, Y., & Jiang, Y．(2024). Temporal integration by multi-level regularities fosters the emergence of dynamic conscious experience. *Annals of the New York Academy of Sciences*. 1–13. https://doi.org/10.1111/nyas.15099
+Citation: Shen, L., Li, S., Tian, Y., Wang, Y.* , & Jiang, Y. (2025). Cortical tracking of hierarchical rhythms orchestrates the multisensory processing of biological motion. *eLife, 13*, RP98701. https://doi.org/10.7554/eLife.98701
