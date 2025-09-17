@@ -49,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer: Journal of Transportation Engineering, Part A: Systems
+*  **Reviewer:** Journal of Transportation Engineering, Part A: Systems
